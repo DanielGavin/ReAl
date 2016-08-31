@@ -1,0 +1,8 @@
+
+Full outer join: ⟗
+
+Usage:
+Creates a full outer join of two relations.
+
+Notation:
+Relation1 ⟗ Relation2.

@@ -1,0 +1,8 @@
+
+Natural Join: ⋈
+
+Usage:
+Creates a natural join of two relations.
+
+Notation:
+Relation1 ⋈ Relation2.

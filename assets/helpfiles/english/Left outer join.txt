@@ -1,0 +1,8 @@
+
+Left outer join: ⟕
+
+Usage:
+Creates a left outer join of two relations.
+
+Notation:
+Relation1 ⟕ Relation2.
